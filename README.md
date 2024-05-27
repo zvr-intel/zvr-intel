@@ -1,3 +1,3 @@
 # Alexios Zavras `zvr`
 
-Working for @Intel
+Chief Open Source Compliance Officer of @Intel
